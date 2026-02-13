@@ -117,10 +117,6 @@ rss:
       name: "Hacker News"
       url: "https://hnrss.org/frontpage"
 
-    - id: "ruanyifeng"
-      name: "阮一峰的网络日志"
-      url: "http://www.ruanyifeng.com/blog/atom.xml"
-
     - id: "yahoo-finance"
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
@@ -128,7 +124,7 @@ rss:
     - id: "Andrej Karpathy-feed"
       name: "Karpathy 精选 RSS 日报素材"
       url: "https://youmind.com/rss/pack/andrej-karpathy-curated-rss"
-      max_age_days: 0
+   
 
 
     
