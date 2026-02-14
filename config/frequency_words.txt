@@ -172,9 +172,8 @@
 /智元|灵犀|稚晖君|彭志辉|AgiBot/ => 智元机器人
 /众擎|EngineAI|赵同阳/ => 众擎机器人
 
-/京东|刘强东|\bJD\b|\bJingdong\b/ => 京东
 
-/字节|张一鸣|梁汝波|抖音|\bByteDance\b|\bTikTok\b|\bDouyin\b|\bLark\b|\bCapCut\b/ => 字节跳动
+/字节|张一鸣|梁汝波|\bByteDance\b|\bTikTok\b|\bDouyin\b|\bLark\b|\bCapCut\b/ => 字节跳动
 
 /腾讯|鹅厂|马化腾|微信|QQ|天美|阅文集团|微众银行|\bTencent\b|\bPony Ma\b|\bWeChat\b|\bLightSpeed\b|\bWeBank\b/ => 腾讯
 
